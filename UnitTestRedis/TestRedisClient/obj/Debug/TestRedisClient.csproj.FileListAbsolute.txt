@@ -1,0 +1,13 @@
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\obj\Debug\TestRedisClient.csprojResolveAssemblyReference.cache
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\TestRedisClient.exe.config
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\TestRedisClient.exe
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\TestRedisClient.pdb
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\StackExchange.Redis.dll
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\protobuf-net.pdb
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\protobuf-net.xml
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\StackExchange.Redis.pdb
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\StackExchange.Redis.xml
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\obj\Debug\TestRedisClient.exe
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\obj\Debug\TestRedisClient.pdb
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\Newtonsoft.Json.dll
+E:\work\Alan\git\RedisTest-master\UnitTestRedis\TestRedisClient\bin\Debug\Newtonsoft.Json.xml
